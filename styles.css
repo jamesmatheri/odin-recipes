@@ -1,0 +1,9 @@
+.link-main-page{
+    margin: 75px;
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: large;
+    font-weight: bolder;
+
+}
